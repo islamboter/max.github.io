@@ -10,4 +10,4 @@
 #    ▄█████████▀   ▀██████▀   ▄████████▀   ▄████████▀  ¦ Source TH3BOSS BY @TH3BS
 #---------------------------------------------------------------------
 
-cd ~ ; sudo rm -fr BOSS && git clone https://github.com/TH3BS/BOSS.git && cd BOSS && chmod +x ./ins && ./ins
+cd ~ ; sudo rm -fr BOSS && git clone https://github.com/MAXTELE/MAX.git && cd MAX && chmod +x ./ins && ./ins
